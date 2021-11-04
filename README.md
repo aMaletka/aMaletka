@@ -1,6 +1,5 @@
 ### Hi, I'm Ania 👋
 
-💻 I’m learning new stuff every day 
 
 
 <!--
