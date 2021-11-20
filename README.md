@@ -1,5 +1,5 @@
 
-### 📝 Certified ISTQB FL tester
+### 📝 Certified ISTQB FL tester.
 
 
 
