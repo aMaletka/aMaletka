@@ -1,5 +1,6 @@
 
 ### 📝 Certified ISTQB FL tester
+### 🤖 Junior Automation Tester
 
 
 
